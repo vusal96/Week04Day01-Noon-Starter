@@ -1,0 +1,137 @@
+/*common classes*/
+.textColorWhite{
+	color: white;
+}
+.verticalSpace{
+	margin-bottom: 40px;
+}
+/*main styles */
+#main{
+	background: url("../img/main-bg.jpg");
+	background-size:cover;
+      
+}
+#main .mainColor{
+
+}
+#main .mainHeight{
+	height: 100%;
+}
+#main .container-fluid{
+	padding: 0px;
+}
+#main .navbar{
+	border-radius: 0px;
+}
+#main .navbar-inverse{
+	background: transparent !important; 
+	border:none;
+
+}
+#main h4{
+	font-style: italic;
+	font-size: 3em;
+
+}
+#main h1{
+	font-size: 5em;
+	font-weight: 700;
+
+}
+#main .btn{
+	background: #FED136;
+	padding: 20px;
+	border-radius: 0;
+
+}
+
+#main .content{
+	padding: 270px 0;
+}
+/* services styles*/
+#services{
+	
+
+}
+#services .mainColor{
+	background-color: #FFFFFF;
+}
+#services .mainHeight{
+	height: 100%;
+}
+#services h1{
+	padding-top: 10px;
+	font-weight: 700;
+}
+#services i{
+	background: #FED136;
+	color: white;
+	border-radius: 100%;
+	padding: 30px;
+	margin-top: 40px;
+}
+#services h5{
+	font-weight: bold;
+	padding: 10px 0px;
+}
+#services .content{
+	padding: 100px 0px;
+}
+/*portfolio styles*/
+#portfolio{
+
+}
+#portfolio .mainColor{
+	background-color: #EEEEEE;
+}
+#portfolio .mainHeight{
+	height: 100%;
+}
+#portfolio .content{
+	padding:100px 0;
+}
+#portfolio h1{
+	font-weight: 700;
+}
+#portfolio p{
+	font-style: italic;
+}
+#portfolio .thumbnail{
+	padding: 0;
+	border-radius: 0;
+	border:none;
+}
+
+/*about styles*/
+#about{
+	height: 350px;
+
+}
+#about .mainColor{
+	background-color: #FFFFFF;
+}
+#about .mainHeight{
+	height: 100%;
+}
+/*team styles*/
+#team{
+	height: 400px;
+
+}
+#team .mainColor{
+	background-color: #EEEEEE;
+}
+#team .mainHeight{
+	height: 100%;
+}
+/*contact styles*/
+#contact{
+	height: 500px;
+
+}
+#contact .mainColor{
+	background-color: #2B2B2B;
+}
+#contact .mainHeight{
+	height: 100%;
+}
